@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.40">
+   <children>
+      <Pane layoutX="-103.0" layoutY="-172.0" prefHeight="227.0" prefWidth="352.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <TextField layoutX="48.0" layoutY="128.0" prefHeight="25.0" prefWidth="264.0" />
+            <ButtonBar layoutX="48.0" layoutY="173.0" prefHeight="40.0" prefWidth="264.0">
+              <buttons>
+                <Button mnemonicParsing="false" text="Confirm" />
+                  <Button mnemonicParsing="false" text="Cancel" />
+              </buttons>
+            </ButtonBar>
+            <TextArea editable="false" layoutX="48.0" layoutY="1.0" opacity="0.0" prefHeight="90.0" prefWidth="258.0" text="Erm, there should be something here..." />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
