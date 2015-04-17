@@ -1,3 +1,0 @@
-02-27 13:01:21.149: E/AndroidRuntime(212): Uncaught handler: thread main exiting due to uncaught exception
-02-27 13:01:21.159: E/AndroidRuntime(212): java.lang.RuntimeException: Unable to start activity ComponentInfo{org.me.myandroidstuff/org.me.myandroidstuff.TrafficListingTestActivity}: java.lang.NullPointerException
-02-27 13:01:21.159: E/AndroidRuntime(212): Caused by: java.lang.NullPointerException
